@@ -14,5 +14,5 @@ class Palindromo():
     else:
       print("No es un palíndromo.")
   
-  def __init__(self):
+  def iniciar(self):
     Palindromo().espalindromo()
